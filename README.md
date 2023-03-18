@@ -1,1 +1,1 @@
-搭建步骤收录至专栏：https://blog.csdn.net/qq_41575489/category_12099245.html
+基于开源项目Fabric联盟链的茅台酒溯源系统
